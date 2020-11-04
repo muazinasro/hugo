@@ -1,4 +1,4 @@
-baseURL = "/content/posts"
+baseURL = "https://hugo.muazinasro.vercel.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
